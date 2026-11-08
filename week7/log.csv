@@ -1,0 +1,25 @@
+2026-10-25 23:49:33,WARN,27.1,80.7,Too hot/humid
+2026-10-25 23:49:35,WARN,27.2,80.7,Too hot/humid
+2026-10-25 23:49:38,WARN,27.2,80.0,Too hot/humid
+2026-10-25 23:49:40,WARN,27.2,79.6,Too hot/humid
+2026-10-25 23:49:43,FAIL,,,Checksum did not validate. Try again.
+2026-10-25 23:49:45,WARN,27.3,79.0,Too hot/humid
+2026-10-25 23:49:48,WARN,27.3,78.5,Too hot/humid
+2026-10-25 23:49:50,WARN,27.3,78.0,Too hot/humid
+2026-10-25 23:49:53,WARN,27.3,77.9,Too hot/humid
+2026-10-25 23:49:55,WARN,27.3,77.0,Too hot/humid
+2026-10-25 23:49:58,WARN,27.3,76.6,Too hot/humid
+2026-10-25 23:50:00,WARN,27.3,76.3,Too hot/humid
+2026-10-25 23:50:02,WARN,27.3,75.9,Too hot/humid
+2026-10-25 23:51:14,WARN,27.1,73.4,Too hot/humid
+2026-10-25 23:51:16,WARN,27.0,74.0,Too hot/humid
+2026-10-25 23:51:19,FAIL,,,Checksum did not validate. Try again.
+2026-10-25 23:51:21,WARN,27.2,76.4,Too hot/humid
+2026-10-25 23:51:24,WARN,27.2,76.7,Too hot/humid
+2026-10-26 00:09:04,FAIL,,,"DHT sensor not found, check wiring"
+2026-10-26 00:09:06,FAIL,,,"DHT sensor not found, check wiring"
+2026-10-26 00:09:09,FAIL,,,"DHT sensor not found, check wiring"
+2026-10-26 00:09:11,FAIL,,,"DHT sensor not found, check wiring"
+2026-10-26 00:09:14,FAIL,,,"DHT sensor not found, check wiring"
+2026-10-26 00:09:16,FAIL,,,"DHT sensor not found, check wiring"
+2026-10-26 00:09:19,FAIL,,,"DHT sensor not found, check wiring"
